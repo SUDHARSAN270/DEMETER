@@ -1,0 +1,12 @@
+Beans Angular LeafSpot
+Beans Rust
+Strawberry Angular LeafSpot
+Strawberry Anthracnose Fruit Rot
+Strawberry Blossom Blight
+Strawberry Gray Mold
+Strawberry Leaf Spot
+Strawberry Powdery Mildew Fruit
+Strawberry Powdery Mildew Leaf
+Tomato Blight
+Tomato Leaf Mold
+Tomato Spider Mites
